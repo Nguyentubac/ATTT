@@ -1,0 +1,10 @@
+C:\Users\ADMIN\source\repos\ATTT (1)\Mathaythe\bin\Debug\Mathaythe.exe.config
+C:\Users\ADMIN\source\repos\ATTT (1)\Mathaythe\bin\Debug\Mathaythe.exe
+C:\Users\ADMIN\source\repos\ATTT (1)\Mathaythe\bin\Debug\Mathaythe.pdb
+C:\Users\ADMIN\source\repos\ATTT (1)\Mathaythe\obj\Debug\Mathaythe.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\ATTT (1)\Mathaythe\obj\Debug\Mathaythe.Form1.resources
+C:\Users\ADMIN\source\repos\ATTT (1)\Mathaythe\obj\Debug\Mathaythe.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\ATTT (1)\Mathaythe\obj\Debug\Mathaythe.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\ATTT (1)\Mathaythe\obj\Debug\Mathaythe.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\ATTT (1)\Mathaythe\obj\Debug\Mathaythe.exe
+C:\Users\ADMIN\source\repos\ATTT (1)\Mathaythe\obj\Debug\Mathaythe.pdb

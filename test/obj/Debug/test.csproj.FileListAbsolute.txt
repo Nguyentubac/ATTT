@@ -1,0 +1,20 @@
+D:\D\antoanthongtin\ATTT\test\bin\Debug\test.exe.config
+D:\D\antoanthongtin\ATTT\test\bin\Debug\test.exe
+D:\D\antoanthongtin\ATTT\test\bin\Debug\test.pdb
+D:\D\antoanthongtin\ATTT\test\obj\Debug\test.csproj.AssemblyReference.cache
+D:\D\antoanthongtin\ATTT\test\obj\Debug\test.Form1.resources
+D:\D\antoanthongtin\ATTT\test\obj\Debug\test.Properties.Resources.resources
+D:\D\antoanthongtin\ATTT\test\obj\Debug\test.csproj.GenerateResource.cache
+D:\D\antoanthongtin\ATTT\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+D:\D\antoanthongtin\ATTT\test\obj\Debug\test.exe
+D:\D\antoanthongtin\ATTT\test\obj\Debug\test.pdb
+C:\Users\ADMIN\source\repos\ATTT (1)\test\bin\Debug\test.exe.config
+C:\Users\ADMIN\source\repos\ATTT (1)\test\bin\Debug\test.exe
+C:\Users\ADMIN\source\repos\ATTT (1)\test\bin\Debug\test.pdb
+C:\Users\ADMIN\source\repos\ATTT (1)\test\obj\Debug\test.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\ATTT (1)\test\obj\Debug\test.Form1.resources
+C:\Users\ADMIN\source\repos\ATTT (1)\test\obj\Debug\test.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\ATTT (1)\test\obj\Debug\test.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\ATTT (1)\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\ATTT (1)\test\obj\Debug\test.exe
+C:\Users\ADMIN\source\repos\ATTT (1)\test\obj\Debug\test.pdb

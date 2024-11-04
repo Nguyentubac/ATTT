@@ -1,0 +1,10 @@
+C:\Users\ADMIN\source\repos\ATTT (1)\Ceasar\bin\Debug\Ceasar.exe.config
+C:\Users\ADMIN\source\repos\ATTT (1)\Ceasar\bin\Debug\Ceasar.exe
+C:\Users\ADMIN\source\repos\ATTT (1)\Ceasar\bin\Debug\Ceasar.pdb
+C:\Users\ADMIN\source\repos\ATTT (1)\Ceasar\obj\Debug\Ceasar.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\ATTT (1)\Ceasar\obj\Debug\Ceasar.Form1.resources
+C:\Users\ADMIN\source\repos\ATTT (1)\Ceasar\obj\Debug\Ceasar.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\ATTT (1)\Ceasar\obj\Debug\Ceasar.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\ATTT (1)\Ceasar\obj\Debug\Ceasar.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\ATTT (1)\Ceasar\obj\Debug\Ceasar.exe
+C:\Users\ADMIN\source\repos\ATTT (1)\Ceasar\obj\Debug\Ceasar.pdb

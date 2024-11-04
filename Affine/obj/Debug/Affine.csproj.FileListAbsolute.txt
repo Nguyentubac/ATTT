@@ -1,0 +1,10 @@
+C:\Users\ADMIN\source\repos\ATTT (1)\Affine\obj\Debug\Affine.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\ATTT (1)\Affine\obj\Debug\Affine.Form1.resources
+C:\Users\ADMIN\source\repos\ATTT (1)\Affine\obj\Debug\Affine.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\ATTT (1)\Affine\obj\Debug\Affine.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\ATTT (1)\Affine\obj\Debug\Affine.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\ATTT (1)\Affine\bin\Debug\Affine.exe.config
+C:\Users\ADMIN\source\repos\ATTT (1)\Affine\bin\Debug\Affine.exe
+C:\Users\ADMIN\source\repos\ATTT (1)\Affine\bin\Debug\Affine.pdb
+C:\Users\ADMIN\source\repos\ATTT (1)\Affine\obj\Debug\Affine.exe
+C:\Users\ADMIN\source\repos\ATTT (1)\Affine\obj\Debug\Affine.pdb
